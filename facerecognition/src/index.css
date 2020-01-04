@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Passion+One:400,700,900&display=swap');
+
+html{
+  height: 100%;
+}
+
+body {
+  margin: auto;
+  background: linear-gradient(to right,rgba(62,62,62,1) 0%, rgba(154,154,154,1) 50%,  rgba(62,62,62,1) 100%);
+  background-size: cover;
+  height: 100%;
+  font-family: 'Passion One', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+button {
+  cursor: pointer;
+}
